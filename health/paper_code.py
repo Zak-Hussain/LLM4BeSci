@@ -30,7 +30,7 @@ training_args = TrainingArguments(
     output_dir=model_name,
     per_device_train_batch_size=batch_size,
     per_device_eval_batch_size=batch_size,
-    logging_steps=1/batch_size,
+    logging_strategy="epoch", # log training metrics at every epoch
     evaluation_strategy="epoch",
     num_train_epochs=10,
 )
