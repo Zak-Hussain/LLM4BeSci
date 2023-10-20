@@ -1,4 +1,3 @@
-import torch
 from transformers import (
     AutoModelForSequenceClassification, TrainingArguments, Trainer
 )
@@ -8,13 +7,6 @@ import evaluate
 torch.manual_seed(42)
 
 # Initialising model and moving to the GPU
-if torch.cuda.is_available():
-    device = torch.device('cuda')
-elif torch.backends.mps.is_available():
-    device = torch.device('mps')
-else:
-    device = torch.device('cpu')
-
 model = AutoModelForSequenceClassification.from_pretrained(
     model_ckpt, num_labels=1
 )
@@ -30,19 +22,20 @@ training_args = TrainingArguments(
     output_dir=model_name,
     per_device_train_batch_size=batch_size,
     per_device_eval_batch_size=batch_size,
-    logging_strategy="epoch", # log training metrics at every epoch
+    logging_strategy="epoch",
     evaluation_strategy="epoch",
     num_train_epochs=10,
 )
 
 
 def compute_metrics(eval_preds):
-    """Computes the coefficient of determination (R2) on the test set."""
+    """
+    Computes the coefficient of determination (R2) on the test set
+    """
     metric = evaluate.load("r_squared")
     preds, labels = eval_preds
-    return {
-        "r_squared": metric.compute(predictions=preds, references=labels)
-    }
+    r2 = metric.compute(predictions=preds, references=labels)
+    return {"r_squared": r2}
 
 
 # Fine-tuning and evaluating the model
