@@ -6,14 +6,14 @@ import evaluate
 # For reproducibility
 torch.manual_seed(42)
 
+# Splitting the data into train and test sets
+dat = dat.train_test_split(test_size=.2, seed=42)
+
 # Initialising model and moving to the GPU
 model = AutoModelForSequenceClassification.from_pretrained(
     model_ckpt, num_labels=1
 )
 model = model.to(device)
-
-# Splitting the data into train and test sets
-dat = dat.train_test_split(test_size=.2, seed=42)
 
 # Setting up training arguments for the trainer
 model_name = f"{model_ckpt}-finetuned-health"
@@ -25,6 +25,7 @@ training_args = TrainingArguments(
     logging_strategy="epoch",
     evaluation_strategy="epoch",
     num_train_epochs=10,
+    optim='adamw_torch',
 )
 
 
@@ -32,8 +33,8 @@ def compute_metrics(eval_preds):
     """
     Computes the coefficient of determination (R2) on the test set
     """
-    metric = evaluate.load("r_squared")
     preds, labels = eval_preds
+    metric = evaluate.load("r_squared")
     r2 = metric.compute(predictions=preds, references=labels)
     return {"r_squared": r2}
 
