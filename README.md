@@ -32,7 +32,7 @@ Hardware accelerator > T4 GPU.
    give permission to access your Google Drive.
    You are now ready to start the exercises!
 
-### Citing this work:
+### Citing this work
 APA citations: 
 
 Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2023). A tutorial on open-source large language models for
