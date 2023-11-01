@@ -1,7 +1,10 @@
 ## LLM4BeSci
 
-This repository contains the code and data for the paper "A tutorial on open-source large language models for 
-behavioral science". 
+This repository contains the code and data for the paper ["A tutorial on open-source large language models for 
+behavioral science"](https://psyarxiv.com/PLACEHOLDER) by Zak Hussain, Marcel Binz, Rui Mata, and Dirk U. Wulff. The paper is currently under review at
+Behavioral Research Methods. 
+
+The preprint is available on PsyArXiv: https://psyarxiv.com/PLACEHOLDER
 
 ### Instructions for running the code in Google Colab
 1. If you do not have a Google account, you will need to create one.
@@ -28,3 +31,22 @@ Hardware accelerator > T4 GPU.
 8. Run the first cell of the notebook to install the required packages. This may take a few minutes and ask for you to
    give permission to access your Google Drive.
    You are now ready to start the exercises!
+
+### Citing this work:
+APA citations: 
+
+Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2023). A tutorial on open-source large language models for
+behavioral science. PsyArXiv. https://doi.org/10.31234/osf.io/PLACEHOLDER
+
+Bibtex citation:
+
+```{bibtex}
+@article{hussain2023tutorial,
+title={A tutorial on open-source large language models for behavioral science},
+author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U.},
+journal={PsyArXiv},
+year={2023},
+note={Preprint},
+url={PLACEHOLDER_URL_FOR_THE_PAPER_IF_AVAILABLE}
+}
+```
