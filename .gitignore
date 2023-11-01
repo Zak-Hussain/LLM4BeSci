@@ -159,3 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 /health/distilbert_features.csv
+/health/paper_code_1.py
+/health/paper_code_2.py
+/personality/paper_code_1.py
+/personality/paper_code_2.py
