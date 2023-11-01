@@ -1,21 +1,10 @@
-from transformers import (
-    AutoModelForCausalLM, AutoTokenizer, pipeline
-)
+from transformers import pipeline
 
 # Load the model and tokenizer
-model_ckpt = "TheBloke/Llama-2-13B-chat-GPTQ"
-model = AutoModelForCausalLM.from_pretrained(
-    model_ckpt, device_map="auto",
-    trust_remote_code=False, revision="main"
-)
-tokenizer = AutoTokenizer.from_pretrained(
-    model_ckpt, use_fast=True
-)
-
-# Load the generator pipeline
+model_ckpt = 'TheBloke/Llama-2-13B-chat-GPTQ'
 generator = pipeline(
-    "text-generation", model=model,
-    tokenizer=tokenizer, max_new_tokens=512,
+    "text-generation", model=model_ckpt, device_map='auto',
+    revision='main', tokenizer=model_ckpt, max_new_tokens=512,
     do_sample=False
 )
 
