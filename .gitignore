@@ -158,8 +158,23 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-/health/distilbert_features.csv
+/health/embeddings/health_distilbert.csv
 /health/paper_code_1.py
 /health/paper_code_2.py
 /personality/paper_code_1.py
 /personality/paper_code_2.py
+/health/health.png
+/health/plt.ipynb
+/personality/embeddings/neo_cohere.csv
+/personality/embeddings/neo_ada-002.csv
+/health/neo_cohere.csv
+/health/neo_ada-002.csv
+/personality/plt.ipynb
+/personality/embeddings/neo_distilbert.csv
+/health/embeddings/health_ada-002.csv
+/health/embeddings/health_cohere.csv
+/health/embeddings/
+/personality/embeddings/
+/personality/item_corrs.csv
+/personality/personality.png
+/health/insructor.ipynb
