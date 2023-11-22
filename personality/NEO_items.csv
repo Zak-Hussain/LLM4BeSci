@@ -1,301 +1,301 @@
-construct,item,text,key
-Achievement-Striving,1,Go straight for the goal.,1
-Achievement-Striving,2,Plunge into tasks with all my heart.,1
-Achievement-Striving,3,Demand quality.,1
-Achievement-Striving,4,Set high standards for myself and others.,1
-Achievement-Striving,5,Turn plans into actions.,1
-Achievement-Striving,6,Do more than what's expected of me.,1
-Achievement-Striving,7,Work hard.,1
-Achievement-Striving,8,Do just enough work to get by.,-1
-Achievement-Striving,9,Am not highly motivated to succeed.,-1
-Achievement-Striving,10,Put little time and effort into my work.,-1
-Activity-Level,1,Am always on the go.,1
-Activity-Level,2,Am always busy.,1
-Activity-Level,3,React quickly.,1
-Activity-Level,4,Can manage many things at the same time.,1
-Activity-Level,5,Do a lot in my spare time.,1
-Activity-Level,6,React slowly.,-1
-Activity-Level,7,Like to take my time.,-1
-Activity-Level,8,Like a leisurely lifestyle.,-1
-Activity-Level,9,Like to take it easy.,-1
-Activity-Level,10,Let things proceed at their own pace.,-1
-Adventurousness,1,Like to visit new places.,1
-Adventurousness,2,Interested in many things.,1
-Adventurousness,3,Prefer variety to routine.,1
-Adventurousness,4,Like to begin new things.,1
-Adventurousness,5,Don't like the idea of change.,-1
-Adventurousness,6,Prefer to stick with things that I know.,-1
-Adventurousness,7,Dislike changes.,-1
-Adventurousness,8,Am a creature of habit.,-1
-Adventurousness,9,Am attached to conventional ways.,-1
-Adventurousness,10,Dislike new foods.,-1
-Aesthetic Appreciation/Artistic Interests,1,Love flowers.,1
-Aesthetic Appreciation/Artistic Interests,2,Like music.,1
-Aesthetic Appreciation/Artistic Interests,3,See beauty in things that others might not notice.,1
-Aesthetic Appreciation/Artistic Interests,4,Believe in the importance of art.,1
-Aesthetic Appreciation/Artistic Interests,5,Enjoy the beauty of nature.,1
-Aesthetic Appreciation/Artistic Interests,6,Do not like poetry.,-1
-Aesthetic Appreciation/Artistic Interests,7,Do not enjoy watching dance performances.,-1
-Aesthetic Appreciation/Artistic Interests,8,Do not enjoy going to art museums.,-1
-Aesthetic Appreciation/Artistic Interests,9,Do not like art.,-1
-Aesthetic Appreciation/Artistic Interests,10,Do not like concerts.,-1
-Altruism,1,Anticipate the needs of others.,1
-Altruism,2,Love to help others.,1
-Altruism,3,Have a good word for everyone.,1
-Altruism,4,Make people feel welcome.,1
-Altruism,5,Am concerned about others.,1
-Altruism,6,Am indifferent to the feelings of others.,-1
-Altruism,7,Turn my back on others.,-1
-Altruism,8,Make people feel uncomfortable.,-1
-Altruism,9,Look down on others.,-1
-Altruism,10,Take no time for others.,-1
-Anger,1,Get irritated easily.,1
-Anger,2,Am often in a bad mood.,1
-Anger,3,Get angry easily.,1
-Anger,4,Lose my temper.,1
-Anger,5,Get upset easily.,1
-Anger,6,Am not easily annoyed.,-1
-Anger,7,Rarely get irritated.,-1
-Anger,8,Seldom get mad.,-1
-Anger,9,Keep my cool.,-1
-Anger,10,Rarely complain.,-1
-Anxiety,1,Am afraid of many things.,1
-Anxiety,2,Get stressed out easily.,1
-Anxiety,3,Get caught up in my problems.,1
-Anxiety,4,Worry about things.,1
-Anxiety,5,Fear for the worst.,1
-Anxiety,6,Adapt easily to new situations.,-1
-Anxiety,7,Am relaxed most of the time.,-1
-Anxiety,8,Am not easily disturbed by events.,-1
-Anxiety,9,Am not easily bothered by things.,-1
-Anxiety,10,Don't worry about things that have already happened.,-1
-Assertiveness,1,Take charge.,1
-Assertiveness,2,Can talk others into doing things.,1
-Assertiveness,3,Try to lead others.,1
-Assertiveness,4,Take control of things.,1
-Assertiveness,5,Seek to influence others.,1
-Assertiveness,6,Hold back my opinions.,-1
-Assertiveness,7,Keep in the background.,-1
-Assertiveness,8,Have little to say.,-1
-Assertiveness,9,Don't like to draw attention to myself.,-1
-Assertiveness,10,Wait for others to lead the way.,-1
-Cautiousness,1,Stick to my chosen path.,1
-Cautiousness,2,Avoid mistakes.,1
-Cautiousness,3,Choose my words with care.,1
-Cautiousness,4,Make rash decisions.,-1
-Cautiousness,5,Act without thinking.,-1
-Cautiousness,6,Jump into things without thinking.,-1
-Cautiousness,7,Rush into things.,-1
-Cautiousness,8,Like to act on a whim.,-1
-Cautiousness,9,Often make last-minute plans.,-1
-Cautiousness,10,Do crazy things.,-1
-Cheerfulness,1,Amuse my friends.,1
-Cheerfulness,2,Look at the bright side of life.,1
-Cheerfulness,3,Love life.,1
-Cheerfulness,4,Laugh aloud.,1
-Cheerfulness,5,Express childlike joy.,1
-Cheerfulness,6,Radiate joy.,1
-Cheerfulness,7,Laugh my way through life.,1
-Cheerfulness,8,Have a lot of fun.,1
-Cheerfulness,9,Seldom joke around.,-1
-Cheerfulness,10,Am not easily amused.,-1
-Cooperation,1,Am easy to satisfy.,1
-Cooperation,2,Can't stand confrontations.,1
-Cooperation,3,Hate to seem pushy.,1
-Cooperation,4,Insult people.,-1
-Cooperation,5,Yell at people.,-1
-Cooperation,6,Hold a grudge.,-1
-Cooperation,7,Love a good fight.,-1
-Cooperation,8,Contradict others.,-1
-Cooperation,9,Have a sharp tongue.,-1
-Cooperation,10,Get back at others.,-1
-Depression,1,Feel that my life lacks direction.,1
-Depression,2,Am often down in the dumps.,1
-Depression,3,Have frequent mood swings.,1
-Depression,4,Dislike myself.,1
-Depression,5,Often feel blue.,1
-Depression,6,Have a low opinion of myself.,1
-Depression,7,Feel desperate.,1
-Depression,8,Seldom feel blue.,-1
-Depression,9,Feel comfortable with myself.,-1
-Depression,10,Am very pleased with myself.,-1
-Dutifulness,1,Keep my promises.,1
-Dutifulness,2,Tell the truth.,1
-Dutifulness,3,Pay my bills on time.,1
-Dutifulness,4,Listen to my conscience.,1
-Dutifulness,5,Try to follow the rules.,1
-Dutifulness,6,Break rules.,-1
-Dutifulness,7,Misrepresent the facts.,-1
-Dutifulness,8,Break my promises.,-1
-Dutifulness,9,Do the opposite of what is asked.,-1
-Dutifulness,10,Get others to do my duties.,-1
-Emotionality,1,Experience my emotions intensely.,1
-Emotionality,2,Feel others' emotions.,1
-Emotionality,3,Try to understand myself.,1
-Emotionality,4,Am passionate about causes.,1
-Emotionality,5,Enjoy examining myself and my life.,1
-Emotionality,6,Seldom get emotional.,-1
-Emotionality,7,Experience very few emotional highs and lows.,-1
-Emotionality,8,Am not easily affected by my emotions.,-1
-Emotionality,9,Don't understand people who get emotional.,-1
-Emotionality,10,Rarely notice my emotional reactions.,-1
-Excitement-Seeking,1,Love excitement.,1
-Excitement-Seeking,2,Enjoy being part of a loud crowd.,1
-Excitement-Seeking,3,Seek danger.,1
-Excitement-Seeking,4,Act wild and crazy.,1
-Excitement-Seeking,5,Willing to try anything once.,1
-Excitement-Seeking,6,Seek adventure.,1
-Excitement-Seeking,7,Love action.,1
-Excitement-Seeking,8,Enjoy being reckless.,1
-Excitement-Seeking,9,Dislike loud music.,-1
-Excitement-Seeking,10,Would never go hang gliding or bungee jumping.,-1
-Friendliness,1,Make friends easily.,1
-Friendliness,2,Act comfortably with others.,1
-Friendliness,3,Feel comfortable around people.,1
-Friendliness,4,Cheer people up.,1
-Friendliness,5,Warm up quickly to others.,1
-Friendliness,6,Keep others at a distance.,-1
-Friendliness,7,Often feel uncomfortable around others.,-1
-Friendliness,8,Avoid contacts with others.,-1
-Friendliness,9,Am not really interested in others.,-1
-Friendliness,10,Am hard to get to know.,-1
-Gregariousness,1,Enjoy being part of a group.,1
-Gregariousness,2,Involve others in what I am doing.,1
-Gregariousness,3,Love surprise parties.,1
-Gregariousness,4,Talk to a lot of different people at parties.,1
-Gregariousness,5,Love large parties.,1
-Gregariousness,6,Prefer to be alone.,-1
-Gregariousness,7,Seek quiet.,-1
-Gregariousness,8,Don't like crowded events.,-1
-Gregariousness,9,Avoid crowds.,-1
-Gregariousness,10,Want to be left alone.,-1
-Imagination,1,Like to get lost in thought.,1
-Imagination,2,Enjoy wild flights of fantasy.,1
-Imagination,3,Love to daydream.,1
-Imagination,4,Indulge in my fantasies.,1
-Imagination,5,Have a vivid imagination.,1
-Imagination,6,Spend time reflecting on things.,1
-Imagination,7,Seldom daydream.,-1
-Imagination,8,Have difficulty imagining things.,-1
-Imagination,9,Seldom get lost in thought.,-1
-Imagination,10,Do not have a good imagination.,-1
-Immoderation,1,Love to eat.,1
-Immoderation,2,Often eat too much.,1
-Immoderation,3,Don't know why I do some of the things I do.,1
-Immoderation,4,Do things I later regret.,1
-Immoderation,5,Go on binges.,1
-Immoderation,6,Rarely overindulge.,-1
-Immoderation,7,Am able to control my cravings.,-1
-Immoderation,8,Never splurge.,-1
-Immoderation,9,Never spend more than I can afford.,-1
-Immoderation,10,Easily resist temptations.,-1
-Intellect,1,Can handle a lot of information.,1
-Intellect,2,Enjoy thinking about things.,1
-Intellect,3,Have a rich vocabulary.,1
-Intellect,4,Like to solve complex problems.,1
-Intellect,5,Love to read challenging material.,1
-Intellect,6,Am not interested in theoretical discussions.,-1
-Intellect,7,Have difficulty understanding abstract ideas.,-1
-Intellect,8,Avoid difficult reading material.,-1
-Intellect,9,Am not interested in abstract ideas.,-1
-Intellect,10,Avoid philosophical discussions.,-1
-Liberalism,1,Believe that there is no absolute right or wrong.,1
-Liberalism,2,Tend to vote for liberal political candidates.,1
-Liberalism,3,Believe that criminals should receive help rather than punishment.,1
-Liberalism,4,Believe laws should be strictly enforced.,-1
-Liberalism,5,Believe that we coddle criminals too much.,-1
-Liberalism,6,Tend to vote for conservative political candidates.,-1
-Liberalism,7,Believe that too much tax money goes to support artists.,-1
-Liberalism,8,Believe that we should be tough on crime.,-1
-Liberalism,9,Like to stand during the national anthem.,-1
-Liberalism,10,Believe in one true religion.,-1
-Modesty/Humility,1,Dislike being the center of attention.,1
-Modesty/Humility,2,Dislike talking about myself.,1
-Modesty/Humility,3,Seldom toot my own horn.,1
-Modesty/Humility,4,Consider myself an average person.,1
-Modesty/Humility,5,Believe that I am better than others.,-1
-Modesty/Humility,6,Think highly of myself.,-1
-Modesty/Humility,7,Boast about my virtues.,-1
-Modesty/Humility,8,Have a high opinion of myself.,-1
-Modesty/Humility,9,Know the answers to many questions.,-1
-Modesty/Humility,10,Make myself the center of attention.,-1
-Morality,1,Would never cheat on my taxes.,1
-Morality,2,Stick to the rules.,1
-Morality,3,Take advantage of others.,-1
-Morality,4,Use flattery to get ahead.,-1
-Morality,5,Know how to get around the rules.,-1
-Morality,6,Put people under pressure.,-1
-Morality,7,Obstruct others' plans.,-1
-Morality,8,Use others for my own ends.,-1
-Morality,9,Cheat to get ahead.,-1
-Morality,10,Pretend to be concerned for others.,-1
-Orderliness,1,Like order.,1
-Orderliness,2,Do things according to a plan.,1
-Orderliness,3,Want everything to be just right.,1
-Orderliness,4,Love order and regularity.,1
-Orderliness,5,Like to tidy up.,1
-Orderliness,6,Often forget to put things back in their proper place.,-1
-Orderliness,7,Leave a mess in my room.,-1
-Orderliness,8,Am not bothered by messy people.,-1
-Orderliness,9,Am not bothered by disorder.,-1
-Orderliness,10,Leave my belongings around.,-1
-Self-consciousness,1,Find it difficult to approach others.,1
-Self-consciousness,2,Am easily intimidated.,1
-Self-consciousness,3,Only feel comfortable with friends.,1
-Self-consciousness,4,Stumble over my words.,1
-Self-consciousness,5,Am afraid to draw attention to myself.,1
-Self-consciousness,6,Am afraid that I will do the wrong thing.,1
-Self-consciousness,7,Am not embarrassed easily.,-1
-Self-consciousness,8,Am able to stand up for myself.,-1
-Self-consciousness,9,Am comfortable in unfamiliar situations.,-1
-Self-consciousness,10,Am not bothered by difficult social situations.,-1
-Self-Discipline,1,Get chores done right away.,1
-Self-Discipline,2,Am always prepared.,1
-Self-Discipline,3,Get to work at once.,1
-Self-Discipline,4,Carry out my plans.,1
-Self-Discipline,5,Start tasks right away.,1
-Self-Discipline,6,Find it difficult to get down to work.,-1
-Self-Discipline,7,Need a push to get started.,-1
-Self-Discipline,8,Have difficulty starting tasks.,-1
-Self-Discipline,9,Postpone decisions.,-1
-Self-Discipline,10,Waste my time.,-1
-Self-Efficacy,1,Excel in what I do.,1
-Self-Efficacy,2,Come up with good solutions.,1
-Self-Efficacy,3,Know how to get things done.,1
-Self-Efficacy,4,Complete tasks successfully.,1
-Self-Efficacy,5,Handle tasks smoothly.,1
-Self-Efficacy,6,Am sure of my ground.,1
-Self-Efficacy,7,Misjudge situations.,-1
-Self-Efficacy,8,Don't understand things.,-1
-Self-Efficacy,9,Don't see the consequences of things.,-1
-Self-Efficacy,10,Have little to contribute.,-1
-Sympathy,1,Feel sympathy for those who are worse off than myself.,1
-Sympathy,2,Value cooperation over competition.,1
-Sympathy,3,Sympathize with the homeless.,1
-Sympathy,4,Suffer from others' sorrows.,1
-Sympathy,5,Believe people should fend for themselves.,-1
-Sympathy,6,Try not to think about the needy.,-1
-Sympathy,7,Tend to dislike soft-hearted people.,-1
-Sympathy,8,Believe in an eye for an eye.,-1
-Sympathy,9,Can't stand weak people.,-1
-Sympathy,10,Am not interested in other people's problems.,-1
-Trust,1,Believe that people are basically moral.,1
-Trust,2,Believe that others have good intentions.,1
-Trust,3,Trust others.,1
-Trust,4,Believe in human goodness.,1
-Trust,5,Think that all will be well.,1
-Trust,6,Trust what people say.,1
-Trust,7,Believe that people are essentially evil.,-1
-Trust,8,Distrust people.,-1
-Trust,9,Suspect hidden motives in others.,-1
-Trust,10,Am wary of others.,-1
-Vulnerability,1,Panic easily.,1
-Vulnerability,2,Get overwhelmed by emotions.,1
-Vulnerability,3,Feel that I'm unable to deal with things.,1
-Vulnerability,4,Can't make up my mind.,1
-Vulnerability,5,Become overwhelmed by events.,1
-Vulnerability,6,Remain calm under pressure.,-1
-Vulnerability,7,Am calm even in tense situations.,-1
-Vulnerability,8,Can handle complex problems.,-1
-Vulnerability,9,Readily overcome setbacks.,-1
-Vulnerability,10,Know how to cope.,-1
+construct,text,factor
+Achievement-Striving,Go straight for the goal.,Conscientiousness
+Achievement-Striving,Plunge into tasks with all my heart.,Conscientiousness
+Achievement-Striving,Demand quality.,Conscientiousness
+Achievement-Striving,Set high standards for myself and others.,Conscientiousness
+Achievement-Striving,Turn plans into actions.,Conscientiousness
+Achievement-Striving,Do more than what's expected of me.,Conscientiousness
+Achievement-Striving,Work hard.,Conscientiousness
+Achievement-Striving,Do just enough work to get by.,Conscientiousness
+Achievement-Striving,Am not highly motivated to succeed.,Conscientiousness
+Achievement-Striving,Put little time and effort into my work.,Conscientiousness
+Activity-Level,Am always on the go.,Extraversion
+Activity-Level,Am always busy.,Extraversion
+Activity-Level,React quickly.,Extraversion
+Activity-Level,Can manage many things at the same time.,Extraversion
+Activity-Level,Do a lot in my spare time.,Extraversion
+Activity-Level,React slowly.,Extraversion
+Activity-Level,Like to take my time.,Extraversion
+Activity-Level,Like a leisurely lifestyle.,Extraversion
+Activity-Level,Like to take it easy.,Extraversion
+Activity-Level,Let things proceed at their own pace.,Extraversion
+Adventurousness,Like to visit new places.,Openness
+Adventurousness,Interested in many things.,Openness
+Adventurousness,Prefer variety to routine.,Openness
+Adventurousness,Like to begin new things.,Openness
+Adventurousness,Don't like the idea of change.,Openness
+Adventurousness,Prefer to stick with things that I know.,Openness
+Adventurousness,Dislike changes.,Openness
+Adventurousness,Am a creature of habit.,Openness
+Adventurousness,Am attached to conventional ways.,Openness
+Adventurousness,Dislike new foods.,Openness
+Aesthetic Appreciation/Artistic Interests,Love flowers.,Openness
+Aesthetic Appreciation/Artistic Interests,Like music.,Openness
+Aesthetic Appreciation/Artistic Interests,See beauty in things that others might not notice.,Openness
+Aesthetic Appreciation/Artistic Interests,Believe in the importance of art.,Openness
+Aesthetic Appreciation/Artistic Interests,Enjoy the beauty of nature.,Openness
+Aesthetic Appreciation/Artistic Interests,Do not like poetry.,Openness
+Aesthetic Appreciation/Artistic Interests,Do not enjoy watching dance performances.,Openness
+Aesthetic Appreciation/Artistic Interests,Do not enjoy going to art museums.,Openness
+Aesthetic Appreciation/Artistic Interests,Do not like art.,Openness
+Aesthetic Appreciation/Artistic Interests,Do not like concerts.,Openness
+Altruism,Anticipate the needs of others.,Agreeableness
+Altruism,Love to help others.,Agreeableness
+Altruism,Have a good word for everyone.,Agreeableness
+Altruism,Make people feel welcome.,Agreeableness
+Altruism,Am concerned about others.,Agreeableness
+Altruism,Am indifferent to the feelings of others.,Agreeableness
+Altruism,Turn my back on others.,Agreeableness
+Altruism,Make people feel uncomfortable.,Agreeableness
+Altruism,Look down on others.,Agreeableness
+Altruism,Take no time for others.,Agreeableness
+Anger,Get irritated easily.,Neuroticism
+Anger,Am often in a bad mood.,Neuroticism
+Anger,Get angry easily.,Neuroticism
+Anger,Lose my temper.,Neuroticism
+Anger,Get upset easily.,Neuroticism
+Anger,Am not easily annoyed.,Neuroticism
+Anger,Rarely get irritated.,Neuroticism
+Anger,Seldom get mad.,Neuroticism
+Anger,Keep my cool.,Neuroticism
+Anger,Rarely complain.,Neuroticism
+Anxiety,Am afraid of many things.,Neuroticism
+Anxiety,Get stressed out easily.,Neuroticism
+Anxiety,Get caught up in my problems.,Neuroticism
+Anxiety,Worry about things.,Neuroticism
+Anxiety,Fear for the worst.,Neuroticism
+Anxiety,Adapt easily to new situations.,Neuroticism
+Anxiety,Am relaxed most of the time.,Neuroticism
+Anxiety,Am not easily disturbed by events.,Neuroticism
+Anxiety,Am not easily bothered by things.,Neuroticism
+Anxiety,Don't worry about things that have already happened.,Neuroticism
+Assertiveness,Take charge.,Extraversion
+Assertiveness,Can talk others into doing things.,Extraversion
+Assertiveness,Try to lead others.,Extraversion
+Assertiveness,Take control of things.,Extraversion
+Assertiveness,Seek to influence others.,Extraversion
+Assertiveness,Hold back my opinions.,Extraversion
+Assertiveness,Keep in the background.,Extraversion
+Assertiveness,Have little to say.,Extraversion
+Assertiveness,Don't like to draw attention to myself.,Extraversion
+Assertiveness,Wait for others to lead the way.,Extraversion
+Cautiousness,Stick to my chosen path.,Conscientiousness
+Cautiousness,Avoid mistakes.,Conscientiousness
+Cautiousness,Choose my words with care.,Conscientiousness
+Cautiousness,Make rash decisions.,Conscientiousness
+Cautiousness,Act without thinking.,Conscientiousness
+Cautiousness,Jump into things without thinking.,Conscientiousness
+Cautiousness,Rush into things.,Conscientiousness
+Cautiousness,Like to act on a whim.,Conscientiousness
+Cautiousness,Often make last-minute plans.,Conscientiousness
+Cautiousness,Do crazy things.,Conscientiousness
+Cheerfulness,Amuse my friends.,Extraversion
+Cheerfulness,Look at the bright side of life.,Extraversion
+Cheerfulness,Love life.,Extraversion
+Cheerfulness,Laugh aloud.,Extraversion
+Cheerfulness,Express childlike joy.,Extraversion
+Cheerfulness,Radiate joy.,Extraversion
+Cheerfulness,Laugh my way through life.,Extraversion
+Cheerfulness,Have a lot of fun.,Extraversion
+Cheerfulness,Seldom joke around.,Extraversion
+Cheerfulness,Am not easily amused.,Extraversion
+Cooperation,Am easy to satisfy.,Agreeableness
+Cooperation,Can't stand confrontations.,Agreeableness
+Cooperation,Hate to seem pushy.,Agreeableness
+Cooperation,Insult people.,Agreeableness
+Cooperation,Yell at people.,Agreeableness
+Cooperation,Hold a grudge.,Agreeableness
+Cooperation,Love a good fight.,Agreeableness
+Cooperation,Contradict others.,Agreeableness
+Cooperation,Have a sharp tongue.,Agreeableness
+Cooperation,Get back at others.,Agreeableness
+Depression,Feel that my life lacks direction.,Neuroticism
+Depression,Am often down in the dumps.,Neuroticism
+Depression,Have frequent mood swings.,Neuroticism
+Depression,Dislike myself.,Neuroticism
+Depression,Often feel blue.,Neuroticism
+Depression,Have a low opinion of myself.,Neuroticism
+Depression,Feel desperate.,Neuroticism
+Depression,Seldom feel blue.,Neuroticism
+Depression,Feel comfortable with myself.,Neuroticism
+Depression,Am very pleased with myself.,Neuroticism
+Dutifulness,Keep my promises.,Conscientiousness
+Dutifulness,Tell the truth.,Conscientiousness
+Dutifulness,Pay my bills on time.,Conscientiousness
+Dutifulness,Listen to my conscience.,Conscientiousness
+Dutifulness,Try to follow the rules.,Conscientiousness
+Dutifulness,Break rules.,Conscientiousness
+Dutifulness,Misrepresent the facts.,Conscientiousness
+Dutifulness,Break my promises.,Conscientiousness
+Dutifulness,Do the opposite of what is asked.,Conscientiousness
+Dutifulness,Get others to do my duties.,Conscientiousness
+Emotionality,Experience my emotions intensely.,Openness
+Emotionality,Feel others' emotions.,Openness
+Emotionality,Try to understand myself.,Openness
+Emotionality,Am passionate about causes.,Openness
+Emotionality,Enjoy examining myself and my life.,Openness
+Emotionality,Seldom get emotional.,Openness
+Emotionality,Experience very few emotional highs and lows.,Openness
+Emotionality,Am not easily affected by my emotions.,Openness
+Emotionality,Don't understand people who get emotional.,Openness
+Emotionality,Rarely notice my emotional reactions.,Openness
+Excitement-Seeking,Love excitement.,Extraversion
+Excitement-Seeking,Enjoy being part of a loud crowd.,Extraversion
+Excitement-Seeking,Seek danger.,Extraversion
+Excitement-Seeking,Act wild and crazy.,Extraversion
+Excitement-Seeking,Willing to try anything once.,Extraversion
+Excitement-Seeking,Seek adventure.,Extraversion
+Excitement-Seeking,Love action.,Extraversion
+Excitement-Seeking,Enjoy being reckless.,Extraversion
+Excitement-Seeking,Dislike loud music.,Extraversion
+Excitement-Seeking,Would never go hang gliding or bungee jumping.,Extraversion
+Friendliness,Make friends easily.,Extraversion
+Friendliness,Act comfortably with others.,Extraversion
+Friendliness,Feel comfortable around people.,Extraversion
+Friendliness,Cheer people up.,Extraversion
+Friendliness,Warm up quickly to others.,Extraversion
+Friendliness,Keep others at a distance.,Extraversion
+Friendliness,Often feel uncomfortable around others.,Extraversion
+Friendliness,Avoid contacts with others.,Extraversion
+Friendliness,Am not really interested in others.,Extraversion
+Friendliness,Am hard to get to know.,Extraversion
+Gregariousness,Enjoy being part of a group.,Extraversion
+Gregariousness,Involve others in what I am doing.,Extraversion
+Gregariousness,Love surprise parties.,Extraversion
+Gregariousness,Talk to a lot of different people at parties.,Extraversion
+Gregariousness,Love large parties.,Extraversion
+Gregariousness,Prefer to be alone.,Extraversion
+Gregariousness,Seek quiet.,Extraversion
+Gregariousness,Don't like crowded events.,Extraversion
+Gregariousness,Avoid crowds.,Extraversion
+Gregariousness,Want to be left alone.,Extraversion
+Imagination,Like to get lost in thought.,Openness
+Imagination,Enjoy wild flights of fantasy.,Openness
+Imagination,Love to daydream.,Openness
+Imagination,Indulge in my fantasies.,Openness
+Imagination,Have a vivid imagination.,Openness
+Imagination,Spend time reflecting on things.,Openness
+Imagination,Seldom daydream.,Openness
+Imagination,Have difficulty imagining things.,Openness
+Imagination,Seldom get lost in thought.,Openness
+Imagination,Do not have a good imagination.,Openness
+Immoderation,Love to eat.,Neuroticism
+Immoderation,Often eat too much.,Neuroticism
+Immoderation,Don't know why I do some of the things I do.,Neuroticism
+Immoderation,Do things I later regret.,Neuroticism
+Immoderation,Go on binges.,Neuroticism
+Immoderation,Rarely overindulge.,Neuroticism
+Immoderation,Am able to control my cravings.,Neuroticism
+Immoderation,Never splurge.,Neuroticism
+Immoderation,Never spend more than I can afford.,Neuroticism
+Immoderation,Easily resist temptations.,Neuroticism
+Intellect,Can handle a lot of information.,Openness
+Intellect,Enjoy thinking about things.,Openness
+Intellect,Have a rich vocabulary.,Openness
+Intellect,Like to solve complex problems.,Openness
+Intellect,Love to read challenging material.,Openness
+Intellect,Am not interested in theoretical discussions.,Openness
+Intellect,Have difficulty understanding abstract ideas.,Openness
+Intellect,Avoid difficult reading material.,Openness
+Intellect,Am not interested in abstract ideas.,Openness
+Intellect,Avoid philosophical discussions.,Openness
+Liberalism,Believe that there is no absolute right or wrong.,Openness
+Liberalism,Tend to vote for liberal political candidates.,Openness
+Liberalism,Believe that criminals should receive help rather than punishment.,Openness
+Liberalism,Believe laws should be strictly enforced.,Openness
+Liberalism,Believe that we coddle criminals too much.,Openness
+Liberalism,Tend to vote for conservative political candidates.,Openness
+Liberalism,Believe that too much tax money goes to support artists.,Openness
+Liberalism,Believe that we should be tough on crime.,Openness
+Liberalism,Like to stand during the national anthem.,Openness
+Liberalism,Believe in one true religion.,Openness
+Modesty/Humility,Dislike being the center of attention.,Agreeableness
+Modesty/Humility,Dislike talking about myself.,Agreeableness
+Modesty/Humility,Seldom toot my own horn.,Agreeableness
+Modesty/Humility,Consider myself an average person.,Agreeableness
+Modesty/Humility,Believe that I am better than others.,Agreeableness
+Modesty/Humility,Think highly of myself.,Agreeableness
+Modesty/Humility,Boast about my virtues.,Agreeableness
+Modesty/Humility,Have a high opinion of myself.,Agreeableness
+Modesty/Humility,Know the answers to many questions.,Agreeableness
+Modesty/Humility,Make myself the center of attention.,Agreeableness
+Morality,Would never cheat on my taxes.,Agreeableness
+Morality,Stick to the rules.,Agreeableness
+Morality,Take advantage of others.,Agreeableness
+Morality,Use flattery to get ahead.,Agreeableness
+Morality,Know how to get around the rules.,Agreeableness
+Morality,Put people under pressure.,Agreeableness
+Morality,Obstruct others' plans.,Agreeableness
+Morality,Use others for my own ends.,Agreeableness
+Morality,Cheat to get ahead.,Agreeableness
+Morality,Pretend to be concerned for others.,Agreeableness
+Orderliness,Like order.,Conscientiousness
+Orderliness,Do things according to a plan.,Conscientiousness
+Orderliness,Want everything to be just right.,Conscientiousness
+Orderliness,Love order and regularity.,Conscientiousness
+Orderliness,Like to tidy up.,Conscientiousness
+Orderliness,Often forget to put things back in their proper place.,Conscientiousness
+Orderliness,Leave a mess in my room.,Conscientiousness
+Orderliness,Am not bothered by messy people.,Conscientiousness
+Orderliness,Am not bothered by disorder.,Conscientiousness
+Orderliness,Leave my belongings around.,Conscientiousness
+Self-consciousness,Find it difficult to approach others.,Neuroticism
+Self-consciousness,Am easily intimidated.,Neuroticism
+Self-consciousness,Only feel comfortable with friends.,Neuroticism
+Self-consciousness,Stumble over my words.,Neuroticism
+Self-consciousness,Am afraid to draw attention to myself.,Neuroticism
+Self-consciousness,Am afraid that I will do the wrong thing.,Neuroticism
+Self-consciousness,Am not embarrassed easily.,Neuroticism
+Self-consciousness,Am able to stand up for myself.,Neuroticism
+Self-consciousness,Am comfortable in unfamiliar situations.,Neuroticism
+Self-consciousness,Am not bothered by difficult social situations.,Neuroticism
+Self-Discipline,Get chores done right away.,Conscientiousness
+Self-Discipline,Am always prepared.,Conscientiousness
+Self-Discipline,Get to work at once.,Conscientiousness
+Self-Discipline,Carry out my plans.,Conscientiousness
+Self-Discipline,Start tasks right away.,Conscientiousness
+Self-Discipline,Find it difficult to get down to work.,Conscientiousness
+Self-Discipline,Need a push to get started.,Conscientiousness
+Self-Discipline,Have difficulty starting tasks.,Conscientiousness
+Self-Discipline,Postpone decisions.,Conscientiousness
+Self-Discipline,Waste my time.,Conscientiousness
+Self-Efficacy,Excel in what I do.,Conscientiousness
+Self-Efficacy,Come up with good solutions.,Conscientiousness
+Self-Efficacy,Know how to get things done.,Conscientiousness
+Self-Efficacy,Complete tasks successfully.,Conscientiousness
+Self-Efficacy,Handle tasks smoothly.,Conscientiousness
+Self-Efficacy,Am sure of my ground.,Conscientiousness
+Self-Efficacy,Misjudge situations.,Conscientiousness
+Self-Efficacy,Don't understand things.,Conscientiousness
+Self-Efficacy,Don't see the consequences of things.,Conscientiousness
+Self-Efficacy,Have little to contribute.,Conscientiousness
+Sympathy,Feel sympathy for those who are worse off than myself.,Agreeableness
+Sympathy,Value cooperation over competition.,Agreeableness
+Sympathy,Sympathize with the homeless.,Agreeableness
+Sympathy,Suffer from others' sorrows.,Agreeableness
+Sympathy,Believe people should fend for themselves.,Agreeableness
+Sympathy,Try not to think about the needy.,Agreeableness
+Sympathy,Tend to dislike soft-hearted people.,Agreeableness
+Sympathy,Believe in an eye for an eye.,Agreeableness
+Sympathy,Can't stand weak people.,Agreeableness
+Sympathy,Am not interested in other people's problems.,Agreeableness
+Trust,Believe that people are basically moral.,Agreeableness
+Trust,Believe that others have good intentions.,Agreeableness
+Trust,Trust others.,Agreeableness
+Trust,Believe in human goodness.,Agreeableness
+Trust,Think that all will be well.,Agreeableness
+Trust,Trust what people say.,Agreeableness
+Trust,Believe that people are essentially evil.,Agreeableness
+Trust,Distrust people.,Agreeableness
+Trust,Suspect hidden motives in others.,Agreeableness
+Trust,Am wary of others.,Agreeableness
+Vulnerability,Panic easily.,Neuroticism
+Vulnerability,Get overwhelmed by emotions.,Neuroticism
+Vulnerability,Feel that I'm unable to deal with things.,Neuroticism
+Vulnerability,Can't make up my mind.,Neuroticism
+Vulnerability,Become overwhelmed by events.,Neuroticism
+Vulnerability,Remain calm under pressure.,Neuroticism
+Vulnerability,Am calm even in tense situations.,Neuroticism
+Vulnerability,Can handle complex problems.,Neuroticism
+Vulnerability,Readily overcome setbacks.,Neuroticism
+Vulnerability,Know how to cope.,Neuroticism
