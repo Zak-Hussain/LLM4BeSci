@@ -36,7 +36,7 @@ Hardware accelerator > T4 GPU.
 APA citations: 
 
 Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2023). A tutorial on open-source large language models for
-behavioral science. PsyArXiv. https://doi.org/10.31234/osf.io/PLACEHOLDER
+behavioral science. PsyArXiv. osf.io/preprints/psyarxiv/f7stn
 
 Bibtex citation:
 
