@@ -1,10 +1,10 @@
 ## LLM4BeSci
 
 This repository contains the code and data for the paper ["A tutorial on open-source large language models for 
-behavioral science"](https://psyarxiv.com/PLACEHOLDER) by Zak Hussain, Marcel Binz, Rui Mata, and Dirk U. Wulff. The paper is currently under review at
+behavioral science"](https://osf.io/preprints/psyarxiv/f7stn) by Zak Hussain, Marcel Binz, Rui Mata, and Dirk U. Wulff. The paper is currently under review at
 Behavioral Research Methods. 
 
-The preprint is available on PsyArXiv: https://psyarxiv.com/PLACEHOLDER
+The preprint is available on PsyArXiv: [https://osf.io/preprints/psyarxiv/f7stn](https://osf.io/preprints/psyarxiv/f7stn)
 
 ### Instructions for running the code in Google Colab
 1. If you do not have a Google account, you will need to create one.
@@ -35,18 +35,16 @@ Hardware accelerator > T4 GPU.
 ### Citing this work
 APA citations: 
 
-Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2023). A tutorial on open-source large language models for
-behavioral science. PsyArXiv. https://doi.org/10.31234/osf.io/PLACEHOLDER
+Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2023, December 5). A tutorial on open-source large language models for behavioral science. Retrieved from osf.io/preprints/psyarxiv/f7stn
 
 Bibtex citation:
 
-```{bibtex}
-@article{hussain2023tutorial,
-title={A tutorial on open-source large language models for behavioral science},
-author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U.},
-journal={PsyArXiv},
-year={2023},
-note={Preprint},
-url={PLACEHOLDER_URL_FOR_THE_PAPER_IF_AVAILABLE}
+```@misc{hussain_binz_mata_wulff_2023,
+ title={A tutorial on open-source large language models for behavioral science},
+ url={osf.io/preprints/psyarxiv/f7stn},
+ publisher={PsyArXiv},
+ author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U},
+ year={2023},
+ month={Dec}
 }
 ```
