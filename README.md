@@ -39,9 +39,11 @@ Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2023, December 5). A tutorial o
 
 Bibtex citation:
 
-```@misc{hussain_binz_mata_wulff_2023,
+```
+@misc{hussain_binz_mata_wulff_2023,
  title={A tutorial on open-source large language models for behavioral science},
  url={osf.io/preprints/psyarxiv/f7stn},
+ DOI={10.31234/osf.io/f7stn},
  publisher={PsyArXiv},
  author={Hussain, Zak and Binz, Marcel and Mata, Rui and Wulff, Dirk U},
  year={2023},
