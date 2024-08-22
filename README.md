@@ -1,10 +1,7 @@
 ## LLM4BeSci
 
 This repository contains the code and data for the paper ["A tutorial on open-source large language models for 
-behavioral science"](https://osf.io/preprints/psyarxiv/f7stn) by Zak Hussain, Marcel Binz, Rui Mata, and Dirk U. Wulff. The paper has been accepted for publication at
-Behavioral Research Methods. 
-
-The preprint is available on PsyArXiv: [https://osf.io/preprints/psyarxiv/f7stn](https://osf.io/preprints/psyarxiv/f7stn)
+behavioral science"](https://doi.org/10.3758/s13428-024-02455-8) by Zak Hussain, Marcel Binz, Rui Mata, and Dirk U. Wulff.
 
 ### Instructions for running the code in Google Colab
 1. If you do not have a Google account, you will need to create one.
