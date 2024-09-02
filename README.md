@@ -30,7 +30,7 @@ Hardware accelerator > T4 GPU.
    You are now ready to start the exercises!
 
 ### Citing this work
-APA citations: 
+APA citation: 
 
 Hussain, Z., Binz, M., Mata, R., & Wulff, D. U. (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*, 1-24.
 
